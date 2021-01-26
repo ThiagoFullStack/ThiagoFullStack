@@ -6,10 +6,18 @@ Contact-me on:
 
 Shortcut to the curriculum:
 
-[![My website](https://thiago-full-stack.vercel.app/api?url=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoFullStack%2FProjeto-git%2Fmain%2Fcurriculo.png)
-(https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png)]
+[![My website](https://thiago-full-stack.vercel.app/api?url=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoFullStack%2FProjeto-git%2Fmain%2Fcurriculo.png)]
+  (https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png)
 
+=======
+Shortcut to https://TulioFaria.dev
+[![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Ftuliofaria.dev)](https://tuliofaria.dev)
 
+![Tulio Faria's github stats](https://github-readme-stats.vercel.app/api?username=tuliofaria&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliofaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+======
 
 ![Thiago Caetano's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoFullStack&show_icons=true&theme=radical)
 
