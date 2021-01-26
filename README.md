@@ -3,7 +3,8 @@ My name is Thiago Caetano and I´m experienced (+1 years) fullstack developer li
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/thiagocb2-developer-fullstack/)
 
-Shortcut to https://TulioFaria.dev
+
+Shortcut to the curriculum:
 
 [![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Ftuliofaria.dev)](https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png)
 
