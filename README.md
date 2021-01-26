@@ -4,7 +4,8 @@ Contact-me on:
 [LinkedIn](https://linkedin.com/in/thiagocb2-developer-fullstack/)
 
 Shortcut to https://TulioFaria.dev
-[![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Ftuliofaria.dev)](https://tuliofaria.dev)
+[![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Ftuliofaria.dev)](https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1)
+
 
 ![Thiago Caetano's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoFullStack&show_icons=true&theme=radical)
 
