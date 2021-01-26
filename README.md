@@ -6,7 +6,7 @@ Contact-me on:
 
 Shortcut to the curriculum:
 
-[![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Ftuliofaria.dev)](https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png)
+[![My website](https://thiago-full-stack.vercel.app/api?url=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoFullStack%2FProjeto-git%2Fmain%2Fcurriculo.png)](https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png)
 
 
 ![Thiago Caetano's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoFullStack&show_icons=true&theme=radical)
