@@ -4,7 +4,7 @@ Contact-me on:
 [LinkedIn](https://linkedin.com/in/thiagocb2-developer-fullstack/)
 
 
-Shortcut to the curriculum:
+
 
 
   
