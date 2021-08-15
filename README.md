@@ -21,7 +21,7 @@ Contact-me on:
    <img align="center" alt="Tha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Th-NODE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
  </div>
-##
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFullStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
