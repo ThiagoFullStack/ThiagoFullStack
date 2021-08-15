@@ -25,12 +25,7 @@ Contact-me on:
  
  <img align="right" alt="Th-Vencedor" src="https://media2.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif?cid=63e6b07egswhjc9c6znja8h7vsk3rz0r7lnlwe9icb3riwnl&rid=giphy.gif&ct=g">
  
- ##
 
-
-
-
-##
 
 
 
