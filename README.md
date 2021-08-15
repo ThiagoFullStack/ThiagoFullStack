@@ -11,8 +11,7 @@ Contact-me on:
   
  [![My website](https://thiago-full-stack.vercel.app/api?url=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoFullStack%2FProjeto-git%2Fmain%2Fcurriculo.png)](https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png) -->
  ##
- ![Thiago Caetano's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoFullStack&show_icons=true&theme=radical)                        
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFullStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Thiago Caetano's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoFullStack&show_icons=true&theme=radical)                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFullStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  <img align="right" alt="Th-Vencedor" src="https://media2.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif?cid=63e6b07egswhjc9c6znja8h7vsk3rz0r7lnlwe9icb3riwnl&rid=giphy.gif&ct=g">
  
