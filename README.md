@@ -1,5 +1,5 @@
 ### Hi, I'm Thiago Caetano 👋.
-My name is Thiago Caetano and I´m experienced (+1 years) fullstack developer living in Brazil and if necessary to work remotely for companies around the globe.
+I'm a fullstack developer living in Brazil and I love programming I'm very happy with what I do. I would also love to help you if possible, of course, because I try to get to higher levels, but I need your help to get there.
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/thiagocb2-developer-fullstack/)
 
