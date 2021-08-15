@@ -20,9 +20,9 @@ Contact-me on:
    <img align="center" alt="Tha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Th-NODE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
  </div>
-  <div style="color: #000"><br>
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFullStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ 
  <img align="right" alt="Th-Vencedor" src="https://media2.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif?cid=63e6b07egswhjc9c6znja8h7vsk3rz0r7lnlwe9icb3riwnl&rid=giphy.gif&ct=g">
  
 
