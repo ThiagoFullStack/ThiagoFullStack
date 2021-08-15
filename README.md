@@ -17,7 +17,7 @@ Contact-me on:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Rafa-NODE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-  <img align="right" alt="Rafa-yoda" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.pinterest.pt%2Fpin%2F662099582701158170%2F%3Fsend%3Dtrue&psig=AOvVaw39NOhSEGxIxn5-Jt8G9nZg&ust=1629143529994000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiG4d3ms_ICFQAAAAAdAAAAABAD">
+  <img align="right" alt="Th-yoda" src="https://media2.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif?cid=63e6b07egswhjc9c6znja8h7vsk3rz0r7lnlwe9icb3riwnl&rid=giphy.gif&ct=g">
   
 </div>
 
