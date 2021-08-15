@@ -5,11 +5,11 @@ Contact-me on:
 
 
 
-#QRCode of my Curriculum :
+<!-- #QRCode of my Curriculum :
 
   
   
- [![My website](https://thiago-full-stack.vercel.app/api?url=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoFullStack%2FProjeto-git%2Fmain%2Fcurriculo.png)](https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png)
+ [![My website](https://thiago-full-stack.vercel.app/api?url=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoFullStack%2FProjeto-git%2Fmain%2Fcurriculo.png)](https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png) -->
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
