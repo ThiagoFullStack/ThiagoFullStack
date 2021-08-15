@@ -12,12 +12,12 @@ Contact-me on:
  [![My website](https://thiago-full-stack.vercel.app/api?url=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoFullStack%2FProjeto-git%2Fmain%2Fcurriculo.png)](https://raw.githubusercontent.com/ThiagoFullStack/Projeto-git/main/curriculo.png) -->
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Rafa-NODE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-  <img align="right" alt="Th-yoda" src="https://media2.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif?cid=63e6b07egswhjc9c6znja8h7vsk3rz0r7lnlwe9icb3riwnl&rid=giphy.gif&ct=g">
+ <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Tha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Th-NODE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+  <img align="right" alt="Th-Vencedor" src="https://media2.giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif?cid=63e6b07egswhjc9c6znja8h7vsk3rz0r7lnlwe9icb3riwnl&rid=giphy.gif&ct=g">
   
 </div>
 
