@@ -23,7 +23,7 @@ I'm a fullstack developer living in Brazil and I love programming I'm very happy
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
  
-   ![Snake animation](https://github.com/ThiagoFullStack/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ThiagoFullStack/ThiagoFullStack/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
